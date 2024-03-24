@@ -11,8 +11,6 @@ menu:
     identifier: "reference-22e9ba8aefa7ef9891199cf8db3a08cd"
 weight: 900
 toc: true
-sidebar:
-  collapsed: true
 seo:
   title: "" # custom title (optional)
   description: "" # custom description (recommended)
