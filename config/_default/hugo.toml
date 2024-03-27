@@ -1,4 +1,5 @@
-title = "My Docs"
+# The Hugo/site configuration file
+title = "Home"
 baseurl = "/"
 canonifyURLs = false
 disableAliases = true

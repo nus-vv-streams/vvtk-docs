@@ -1,5 +1,6 @@
-# Hugo
-title = "My Docs"
+# The Doks + Hyas integrations (Images, Inline SVG, and SEO) configuration file.
+
+title = "Home"
 description = "Congrats on setting up a new Doks project!"
 images = ["cover.png"]
 
