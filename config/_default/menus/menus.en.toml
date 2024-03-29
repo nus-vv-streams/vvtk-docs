@@ -27,10 +27,10 @@
   post = "v0.1.0"
   weight = 30
 
-# [[footer]]
-# name = "Privacy Policy"
-# url = "/privacy/"
-# weight = 10
+ [[footer]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+  weight = 10
 
 # [[footer]]
 #   name = "Terms of Service"
