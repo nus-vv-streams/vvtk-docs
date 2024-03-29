@@ -2,18 +2,18 @@
 title: "Reference"
 description: ""
 summary: ""
-date: 2023-09-07T16:12:37+02:00
-lastmod: 2023-09-07T16:12:37+02:00
+date: 2024-03-29T16:38:07+08:00
+lastmod: 2024-03-29T16:38:07+08:00
 draft: false
 menu:
   docs:
     parent: ""
-    identifier: "reference-22e9ba8aefa7ef9891199cf8db3a08cd"
-weight: 900
+    identifier: "reference-1711701487"
+    weight: 10
 toc: true
 seo:
-  title: "" # custom title (optional)
-  description: "" # custom description (recommended)
-  canonical: "" # custom canonical URL (optional)
-  noindex: false # false (default) or true
+  title: ""
+  description: ""
+  canonical: ""
+  noindex: false
 ---

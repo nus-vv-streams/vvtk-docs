@@ -1,5 +1,5 @@
 # The Hugo/site configuration file
-title = "Home"
+title = "VVTk"
 baseurl = "/"
 canonifyURLs = false
 disableAliases = true
