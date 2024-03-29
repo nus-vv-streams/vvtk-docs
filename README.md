@@ -1,7 +1,7 @@
 # vvtk-docs
 This is the website of [VVTk: A Toolkit for Volumetric Video Researchers](https://github.com/nus-vv-streams/vvtk).
 
-You can open the website: [`https://nus-vv-streams.github.io/vvtk-docs/`](https://nus-vv-streams.github.io/vvtk-docs/)
+You can open the website: [https://nus-vv-streams.github.io/vvtk-docs/](https://nus-vv-streams.github.io/vvtk-docs/)
 
 ## Requirements
 1. [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
